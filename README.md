@@ -1,7 +1,7 @@
 # Who I am ?
 ## Little presentation 👨🏻:
 Distinguished greetings!
-I am a 19 years old student in DUT MMI and in a company as web developer.
+I am a 20 years old student in DUT MMI and in a company as web developer.
 I have not always been very attracted to programming, loving in my childhood to write stories without ever stopping. 
 
 ## Why my love for programming 💻?
