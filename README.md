@@ -1,7 +1,7 @@
 # Who I am ?
 ## Little presentation 👨🏻:
 Distinguished greetings!
-I am a 20 years old student in LP MDN and in a company as web master.
+I'm actually studying at YNOV at a master while working as PHP developer for a company.
 I have not always been very attracted to programming, loving in my childhood to write stories without ever stopping. 
 
 ## Why my love for programming 💻?
